@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  search: false
+  title: "Paula Montano"
+  navbar:
+    pinned: true 
+    
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: research.qmd 
+      - text: Teaching
+        href: teaching.qmd
+      - text: Code
+        href: code.qmd
+      - text: CV
+        href: docs/CV_Montano_Paula.pdf
+        
+    tools:
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: research.qmd 
+      - text: Teaching
+        href: teaching.qmd
+      - text: Code
+        href: code.qmd
+      - text: CV
+        href: docs/CV_Montano_Paula.pdf
+
+  page-footer: 
+    center: 
+      - icon: c-circle  
+        text: "2024 Paula Montano" 
+    right: 
+      <span>Made with [Quarto](https://quarto.org/)</span>
+  
+format:
+  html:
+    theme: spacelab
+    css: styles.css
+    toc: true
+
+
+

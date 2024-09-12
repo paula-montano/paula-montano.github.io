@@ -1,0 +1,34 @@
+---
+title: "PhD Researcher"
+image: pm.jpg
+resources: CV_Montano_Paula.pdf
+about: 
+  id: welcome
+  template: jolla 
+  image-shape: rectangle
+  image-width: 9em
+  links:
+    - icon: envelope 
+      href: mailto:paula.montano1@gmail.com
+    - icon: twitter-x
+      href: https://x.com/PaulaMontano__
+    - icon: github
+      href: https://github.com/paula-montano
+    - icon: linkedin
+      href: https://www.linkedin.com/in/paula-montano-3699625a?utm_source=share&utm_campaign=s       hare_via&utm_content=profile&utm_medium=ios_app
+---
+
+
+:::{#welcome}
+::: {.justify}
+
+Hi, I am a PhD researcher at the School of Politics and International Relations in University College Dublin and an affiliate to the [Connected_Politics Lab](https://www.ucd.ie/connected_politics/). 
+
+My research analyzes __strategic political communication__ in EU institutions during crises using computational methods. Methodologically, I apply __NLP__ and __quantitative approaches__ to analyse text corpora, and identify causal relationships.
+
+I am a contributor and research assistant in the [Irish Polling Indicator Project](https://pollingindicator.com/) and a co-author of the [Irish Demographic Polling](https://github.com/Irish-Dem-Polling/datasets) and the [Irish Local and European Parliament Election Manifestos](https://github.com/stefan-mueller/iemanifestos) datasets. Previously, I worked for [Global Affairs Canada](https://www.international.gc.ca/global-affairs-affaires-mondiales/home-accueil.aspx?lang=eng) in their office in Ireland and Ecuador.  
+
+Feel free to [reach out](mailto:paula.montano1@gmail.com) to discuss potential collaborations or if you are interested in my research.
+
+:::
+:::

@@ -1,0 +1,16 @@
+---
+title: "Datasets and Code"
+toc: true 
+link-external-newwindow: true
+---
+
+**2024**. Irish Local and EP Election Manifestos (with <a href="https://muellerstefan.net/">Stefan Müller</a> and Artur Baranov).\
+<a href="https://irishpoliticsdata.shinyapps.io/manifestoexplorer/">Dashboard</a> |
+<a href="https://github.com/stefan-mueller/iemanifestos">Dataset</a>\
+
+**2024**. Irish Demographic Polling Datasets (with <a href="https://muellerstefan.net/">Stefan Müller</a> and Thomas Pluck).\   
+<a href="https://irishpoliticsdata.shinyapps.io/demographicpolling/">Dashboard</a> |
+<a href="https://github.com/Irish-Dem-Polling/datasets">Dataset</a>\
+
+**2024**. flaiR, R wrapper to access flaiR NLP library for R users (with <a href="https://davidycliao.github.io/">Yen-Chieh Liao</a>).\
+<a href="https://davidycliao.github.io/flaiR/">GitHub Repository</a>\ 

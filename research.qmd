@@ -1,0 +1,37 @@
+---
+title: "Research"
+toc: true 
+link-external-newwindow: true
+---
+
+## Working Papers 
+
+
+**Grandstanding under the Spotlight: Unveiling Elites Crisis Communication in the Council of the European Union** (with <a href="https://people.ucd.ie/james.cross/">James P. Cross</a> and <a href="https://davidycliao.github.io/">Yen-Chieh Liao</a>).\
+<details>
+<summary>Abstract</summary>
+::: {.justify}
+
+Exceptional times affect how elites communicate and adopt economic policy positions in international negotiations. This paper examines how ministers in the Economic and Financial Affairs Council strategically resort to grandstanding communication to set agendas in response to the Euro crisis between 2010 and 2016. Using few-shot learning with large language models to identify grandstanding statements, combined with a difference-in-differences design, we find that national economic pressures during the euro crisis led ministers from Eurosceptic governments to engage in grandstanding behaviour more than those from Europhile governments. Our results show evidence that Europhile- and Eurosceptic governments may adopt different political communication strategies in response to varying degrees of economic pressures during the crisis.
+
+:::
+</details>
+
+
+**Exceptional Measures for Exceptional Times: Deciphering Emergency Politics Motivators in the Council of the European Union in the Euro Crisis** (Paula Montano).\
+<details>
+<summary>Abstract</summary>
+::: {.justify}
+
+How have recent EU crises shaped European elites’ crisis communication? Recent literature talks about emergency politics, a mode of governance that became prevalent during the euro crisis. In this line, executive leaders justify contested emergency measures as necessary crisis responses to exceptional events. This paper empirically explores the emergency politics model through the lens of emergency language in international negotiations in the Council of the European Union during the euro crisis. Drawing on public videos of Debates in the Council of the European Union - DICEU data from 2010-2016 and applying novel quantitative text analysis techniques on ministers' speeches, findings suggest the presence of emergency language in Council negotiations during the crisis, where the potential motivators are associated with bailout programs and Eurosceptic domestic audiences, prompting European elites to use emergency language to justify their positions on policy debates. These results have implications for understanding decision-making in key EU institutions, such as the Council, during crisis events.
+
+:::
+</details>
+
+## In Progress
+
+**Strategic Crisis Jargon in the EU? Mapping Crisis Communication in the Council of the European Union** (Paula Montano).
+
+If you would like to get access to the latest version of a paper, feel free to [e-mail me](mailto:paula.montano1@gmail.com).
+
+
