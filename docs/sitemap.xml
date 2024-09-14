@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://paula-montano.github.io/paulamontano.github.io/teaching.html</loc>
+    <lastmod>2024-09-14T21:21:51.958Z</lastmod>
+  </url>
+  <url>
+    <loc>https://paula-montano.github.io/paulamontano.github.io/cv.html</loc>
+    <lastmod>2024-09-14T14:57:16.317Z</lastmod>
+  </url>
+  <url>
+    <loc>https://paula-montano.github.io/paulamontano.github.io/awards.html</loc>
+    <lastmod>2024-09-14T14:57:39.762Z</lastmod>
+  </url>
+  <url>
     <loc>https://paula-montano.github.io/paulamontano.github.io/about.html</loc>
     <lastmod>2024-09-14T22:23:45.097Z</lastmod>
+  </url>
+  <url>
+    <loc>https://paula-montano.github.io/paulamontano.github.io/code.html</loc>
+    <lastmod>2024-09-14T21:11:37.348Z</lastmod>
+  </url>
+  <url>
+    <loc>https://paula-montano.github.io/paulamontano.github.io/research.html</loc>
+    <lastmod>2024-09-14T14:56:54.246Z</lastmod>
   </url>
 </urlset>

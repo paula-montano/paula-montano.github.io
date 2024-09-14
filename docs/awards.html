@@ -265,7 +265,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/paula-montano\.github\.io\/paulamontano\.github\.io\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -599,6 +599,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+<p><span><i class="bi bi-cc-circle"></i> 2024 Paula Montano</span><br>
+All rights reserved.</p>
+</div>
+    <div class="nav-footer-right">
+<p><span>Made with <i class="bi bi-r-circle-fill"></i> and <a href="https://quarto.org/" target="_blank">Quarto</a></span></p>
+</div>
+  </div>
+</footer>
 
 
 
