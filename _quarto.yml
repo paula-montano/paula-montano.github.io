@@ -7,7 +7,7 @@ website:
   search: false 
   site-url: "https://paula-montano.github.io/paulamontano.github.io/"
   site-path: "/paulamontano.github.io/"
-  repo-url: "https://github.com/paula-montano/paulamontano.github.io.git"
+  repo-url: "https://github.com/paula-montano/paulamontano.github.io"
   
   navbar:
     pinned: true 
