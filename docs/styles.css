@@ -3,3 +3,8 @@
 .justify {
     text-align: justify;
 }
+
+/* Remove underline from all hyperlinks */
+a {
+  text-decoration: none;
+}
