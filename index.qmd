@@ -1,5 +1,5 @@
 ---
-title: "PhD Researcher"
+title: ""
 image: pm.jpg
 resources: CV_Montano_Paula.pdf
 about: 

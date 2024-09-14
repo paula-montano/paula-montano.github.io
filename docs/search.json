@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "PhD Researcher",
-    "section": "",
-    "text": "Hi, I am a PhD researcher at the School of Politics and International Relations in University College Dublin and an affiliate to the Connected_Politics Lab.\nMy research analyzes strategic political communication in EU institutions during crises using computational methods. Methodologically, I apply NLP and quantitative approaches to analyse text corpora, and identify causal relationships.\nI am a contributor and research assistant in the Irish Polling Indicator Project and a co-author of the Irish Demographic Polling and the Irish Local and European Parliament Election Manifestos datasets. Previously, I worked for Global Affairs Canada in their office in Ireland and Ecuador.\nFeel free to reach out to discuss potential collaborations or if you are interested in my research."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html#university-college-dublin",
-    "href": "index.html#university-college-dublin",
-    "title": "Paula Montano",
-    "section": "",
-    "text": "I am a PhD candidate in the School of Politics and International Relations at University College Dublin and an affiliate to the Connected_Politics Lab.\nMy research analyzes strategic political communication in the Council of the European Union during crises using computational methods. Methodologically, I apply quantitative approaches and the state-of-the-art in Large Language Models to analyse text corpora, and identify causal relationships.\nI am a co-author of the Irish Demographic Polling and the Irish Local and European Parliament Election Manifestos datasets.\nFeel free to reach out if you are interested in my research or if you want to collaborate on a project."
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "Grandstanding under the Spotlight: Unveiling Elites Crisis Communication in the Council of the European Union (with James P. Cross and Yen-Chieh Liao).\n\n\n\nAbstract\n\n\nExceptional times affect how elites communicate and adopt economic policy positions in international negotiations. This paper examines how ministers in the Economic and Financial Affairs Council strategically resort to grandstanding communication to set agendas in response to the Euro crisis between 2010 and 2016. Using few-shot learning with large language models to identify grandstanding statements, combined with a difference-in-differences design, we find that national economic pressures during the euro crisis led ministers from Eurosceptic governments to engage in grandstanding behaviour more than those from Europhile governments. Our results show evidence that Europhile- and Eurosceptic governments may adopt different political communication strategies in response to varying degrees of economic pressures during the crisis.\n\n\nExceptional Measures for Exceptional Times: Deciphering Emergency Politics Motivators in the Council of the European Union in the Euro Crisis (Paula Montano).\n\n\n\nAbstract\n\n\nHow have recent EU crises shaped European elites’ crisis communication? Recent literature talks about emergency politics, a mode of governance that became prevalent during the euro crisis. In this line, executive leaders justify contested emergency measures as necessary crisis responses to exceptional events. This paper empirically explores the emergency politics model through the lens of emergency language in international negotiations in the Council of the European Union during the euro crisis. Drawing on public videos of Debates in the Council of the European Union - DICEU data from 2010-2016 and applying novel quantitative text analysis techniques on ministers’ speeches, findings suggest the presence of emergency language in Council negotiations during the crisis, where the potential motivators are associated with bailout programs and Eurosceptic domestic audiences, prompting European elites to use emergency language to justify their positions on policy debates. These results have implications for understanding decision-making in key EU institutions, such as the Council, during crisis events."
-  },
-  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
@@ -35,67 +7,11 @@
     "text": "I am highly engaged and committed to develop teaching skills in quantitative research methods and Political Science. I have experience as a head tutor and teaching assistant in the following courses:\n\nUniversity College Dublin\n\nPOL20050: Research Methods in Political Science (in R and STATA)\n\nSpring 2022/2023/2024\nUndergraduate course\nCourse information\n\nPOL20010: Individuals and the State: The idea of Freedom in the History of Political Thought\n\nAutumn 2023/2024\nUndergraduate course\nCourse information\n\nINRL20160: Introduction to EU Politics\n\nAutumn 2022\nUndergraduate course\nCourse information\n\nINRL10010: Foundations of Political Theory and International Relations\n\nAutumn 2021/2022\nUndergraduate course\nCourse information"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "PhD Researcher",
     "section": "",
-    "text": "You can download my CV here."
-  },
-  {
-    "objectID": "research.html#working-papers",
-    "href": "research.html#working-papers",
-    "title": "Research",
-    "section": "",
-    "text": "Grandstanding under the Spotlight: Unveiling Elites Crisis Communication in the Council of the European Union (with James P. Cross and Yen-Chieh Liao).\n\n\n\nAbstract\n\n\nExceptional times affect how elites communicate and adopt economic policy positions in international negotiations. This paper examines how ministers in the Economic and Financial Affairs Council strategically resort to grandstanding communication to set agendas in response to the Euro crisis between 2010 and 2016. Using few-shot learning with large language models to identify grandstanding statements, combined with a difference-in-differences design, we find that national economic pressures during the euro crisis led ministers from Eurosceptic governments to engage in grandstanding behaviour more than those from Europhile governments. Our results show evidence that Europhile- and Eurosceptic governments may adopt different political communication strategies in response to varying degrees of economic pressures during the crisis.\n\n\nExceptional Measures for Exceptional Times: Deciphering Emergency Politics Motivators in the Council of the European Union in the Euro Crisis (Paula Montano).\n\n\n\nAbstract\n\n\nHow have recent EU crises shaped European elites’ crisis communication? Recent literature talks about emergency politics, a mode of governance that became prevalent during the euro crisis. In this line, executive leaders justify contested emergency measures as necessary crisis responses to exceptional events. This paper empirically explores the emergency politics model through the lens of emergency language in international negotiations in the Council of the European Union during the euro crisis. Drawing on public videos of Debates in the Council of the European Union - DICEU data from 2010-2016 and applying novel quantitative text analysis techniques on ministers’ speeches, findings suggest the presence of emergency language in Council negotiations during the crisis, where the potential motivators are associated with bailout programs and Eurosceptic domestic audiences, prompting European elites to use emergency language to justify their positions on policy debates. These results have implications for understanding decision-making in key EU institutions, such as the Council, during crisis events."
-  },
-  {
-    "objectID": "research.html#datasets-and-code",
-    "href": "research.html#datasets-and-code",
-    "title": "Research",
-    "section": "Datasets and Code",
-    "text": "Datasets and Code\n2024. Irish Local and EP Election Manifestos (with Stefan Müller and Artur Baranov).\nDashboard | Dataset.\n\n2024. Irish Demographic Polling Datasets (with Stefan Müller and Thomas Pluck). \nDashboard | Dataset.\n\n2024. flaiR, R wrapper to access flaiR NLP library for R users (with Yen-Chieh Liao).\nGitHub Repository."
-  },
-  {
-    "objectID": "teaching.html#undergraduate---university-college-dublin",
-    "href": "teaching.html#undergraduate---university-college-dublin",
-    "title": "Teaching",
-    "section": "Undergraduate - University College Dublin",
-    "text": "Undergraduate - University College Dublin\n\nPOL20050: Research Methods in Political Science (with R and STATA) Semester: Spring 2022/2023/2024\nPOL20010: Individuals and the State: The idea of Freedom in the History of Political Thought Semester: Autumn 2023\nINRL20160: Introduction to EU Politics Semester: Autumn 2022\nINRL10010: Foundations of Political Theory and International Relations Semester: Autumn 2021/2022"
-  },
-  {
-    "objectID": "service.html",
-    "href": "service.html",
-    "title": "Service",
-    "section": "",
-    "text": "I’m highly engaged and committed to develop teaching skills in quantitative research methods and Political Science. I have experience as a head tutor and teaching assistant in the following courses:"
-  },
-  {
-    "objectID": "service.html#undergraduate---university-college-dublin",
-    "href": "service.html#undergraduate---university-college-dublin",
-    "title": "Service",
-    "section": "Undergraduate - University College Dublin",
-    "text": "Undergraduate - University College Dublin\n\nPOL20050: Research Methods in Political Science (with R and STATA) Semester: Spring 2022/2023/2024\nPOL20010: Individuals and the State: The idea of Freedom in the History of Political Thought Semester: Autumn 2023\nINRL20160: Introduction to EU Politics Semester: Autumn 2022\nINRL10010: Foundations of Political Theory and International Relations Semester: Autumn 2021/2022"
-  },
-  {
-    "objectID": "service.html#teaching",
-    "href": "service.html#teaching",
-    "title": "Service",
-    "section": "Teaching",
-    "text": "Teaching\nI’m highly engaged and committed to develop teaching skills in quantitative research methods and Political Science. I have experience as a head tutor and teaching assistant in the following courses:\n\nUniversity College Dublin\n\nPOL20050: Research Methods in Political Science (with R and STATA)\n\nSpring 2022/2023/2024\nUndergraduate course\nCourse information\n\nPOL20010: Individuals and the State: The idea of Freedom in the History of Political Thought\n\nAutumn 2023/2024\nUndergraduate course\nCourse information\n\nINRL20160: Introduction to EU Politics\n\nAutumn 2022\nUndergraduate course\nCourse information\n\nINRL10010: Foundations of Political Theory and International Relations\n\nAutumn 2021/2022\nUndergraduate course\nCourse information"
-  },
-  {
-    "objectID": "service.html#organized-conferences-and-committees",
-    "href": "service.html#organized-conferences-and-committees",
-    "title": "Service",
-    "section": "Organized Conferences and Committees",
-    "text": "Organized Conferences and Committees\nCo-organiser, COMPTEXT Annual Conference 2022\nConference information\nCommittee Member, Diversity & Inclusion for UCD Ad Astra Applicant Pool 2022\nCommittee information\nConference Support, PSAI Annual Conference 2021\nConference information"
-  },
-  {
-    "objectID": "teaching.html#teaching",
-    "href": "teaching.html#teaching",
-    "title": "Teaching",
-    "section": "",
-    "text": "I am highly engaged and committed to develop teaching skills in quantitative research methods and Political Science. I have experience as a head tutor and teaching assistant in the following courses:\n\n\n\nPOL20050: Research Methods in Political Science (with R and STATA)\n\nSpring 2022/2023/2024\nUndergraduate course\nCourse information\n\nPOL20010: Individuals and the State: The idea of Freedom in the History of Political Thought\n\nAutumn 2023/2024\nUndergraduate course\nCourse information\n\nINRL20160: Introduction to EU Politics\n\nAutumn 2022\nUndergraduate course\nCourse information\n\nINRL10010: Foundations of Political Theory and International Relations\n\nAutumn 2021/2022\nUndergraduate course\nCourse information"
+    "text": "Hi, I am a PhD researcher at the School of Politics and International Relations in University College Dublin and an affiliate to the Connected_Politics Lab.\nMy research analyzes strategic political communication in EU institutions during crises using computational methods. Methodologically, I apply NLP and quantitative approaches to analyse text corpora, and identify causal relationships.\nI am a contributor and research assistant in the Irish Polling Indicator Project and a co-author of the Irish Demographic Polling and the Irish Local and European Parliament Election Manifestos datasets. Previously, I worked for Global Affairs Canada in their office in Ireland and Ecuador.\nFeel free to reach out to discuss potential collaborations or if you are interested in my research."
   },
   {
     "objectID": "code.html",
@@ -105,25 +21,11 @@
     "text": "2024. Irish Local and EP Election Manifestos (with Stefan Müller and Artur Baranov).\nDashboard | Dataset\n\n2024. Irish Demographic Polling Datasets (with Stefan Müller and Thomas Pluck). \nDashboard | Dataset\n\n2024. flaiR, R wrapper to access flaiR NLP library for R users (with Yen-Chieh Liao).\nGitHub Repository"
   },
   {
-    "objectID": "code.html#datasets-and-code",
-    "href": "code.html#datasets-and-code",
-    "title": "Code",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "2024. Irish Local and EP Election Manifestos (with Stefan Müller and Artur Baranov).\nDashboard | Dataset.\n\n2024. Irish Demographic Polling Datasets (with Stefan Müller and Thomas Pluck). \nDashboard | Dataset.\n\n2024. flaiR, R wrapper to access flaiR NLP library for R users (with Yen-Chieh Liao).\nGitHub Repository."
-  },
-  {
-    "objectID": "research.html#work-in-progress",
-    "href": "research.html#work-in-progress",
-    "title": "Research",
-    "section": "Work in Progress",
-    "text": "Work in Progress\nStrategic Crisis Jargon in the EU? Mapping Crisis Communication in the Council of the European Union (Paula Montano).\nIf you would like to get access to the latest version of a paper, feel free to e-mail me."
-  },
-  {
-    "objectID": "research.html#in-progress",
-    "href": "research.html#in-progress",
-    "title": "Research",
-    "section": "In Progress",
-    "text": "In Progress\nStrategic Crisis Jargon in the EU? Mapping Crisis Communication in the Council of the European Union (Paula Montano).\nIf you would like to get access to the latest version of a paper, feel free to e-mail me."
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "awards.html",
@@ -131,5 +33,26 @@
     "title": "Awards",
     "section": "",
     "text": "2024 APSA Pol Com Travel Award, Political Communication Section APSA Conference\n\n\nDetails\n\n\nThe Executive Committee of the Political Communication section selected high caliber students to receive the travel award from the Political Communication section of APSA. Award: $500.\nPresented Paper: “Grandstanding in the EU? Elites Crisis Communication under the Spotlight”\n\n\n2024 Vera E. Troeger Scholarship for Women in Political Methodology\n\n\nDetails\n\n\nThe Essex Summer School in Social Science Data Analysis awards the Vera E. Troeger Scholarship for Women in Political Methodology. These awards are intended to encourage methodological training among female graduate students in political science and to honour the work of Professor Vera E. Troeger, a leading figure in quantitative social science research and a powerful voice in the promotion of women in political science. The scholarship provides a tuition waiver to attend in-person to one of our two-week sessions in the 2024 Essex Summer School in Social Science Data Analysis (ESS).\nCourse: “Ideal Point Estimation, Item Response Theory, and Scaling Methods for Surveys and Behaviour”\n\n\n2023 Fellowship for Women in Political Methodology\n\n\nDetails\n\n\nThe Summer School for Women* in Political Methodology is hosted by several female researchers from various European Universities. The Summer School has the aim of establishing a European network of women working in political methodology and data science.The 2023 edition was funded by the University of Basel, the department of Political Science and the Freiwillige Akademische Gesellschaft Basel. The fellowship covered full tuition cost and accommodation for seven days.\nCourses: R packages and Functions, Advanced Graphics in R, Web-Scraping, Text Analysis, Word Embeddings, Images as Data.\n\n\n2021 Iseult Honohan Doctoral Scholarship UCD\n\n\nDetails\n\n\nThe aim of the scholarship is to attract applicants of the highest academic calibre to pursue a PhD in the UCD School of Politics and International Relations, and to provide them with the training, experience and mentorship necessary to their professional development.The scholarship covers full fees and provides a living stipend of €25,000 per year for up to four years."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Grandstanding under the Spotlight: Unveiling Elites Crisis Communication in the Council of the European Union (with James P. Cross and Yen-Chieh Liao).\n\n\n\nAbstract\n\n\nExceptional times affect how elites communicate and adopt economic policy positions in international negotiations. This paper examines how ministers in the Economic and Financial Affairs Council strategically resort to grandstanding communication to set agendas in response to the Euro crisis between 2010 and 2016. Using few-shot learning with large language models to identify grandstanding statements, combined with a difference-in-differences design, we find that national economic pressures during the euro crisis led ministers from Eurosceptic governments to engage in grandstanding behaviour more than those from Europhile governments. Our results show evidence that Europhile- and Eurosceptic governments may adopt different political communication strategies in response to varying degrees of economic pressures during the crisis.\n\n\nExceptional Measures for Exceptional Times: Deciphering Emergency Politics Motivators in the Council of the European Union in the Euro Crisis (Paula Montano).\n\n\n\nAbstract\n\n\nHow have recent EU crises shaped European elites’ crisis communication? Recent literature talks about emergency politics, a mode of governance that became prevalent during the euro crisis. In this line, executive leaders justify contested emergency measures as necessary crisis responses to exceptional events. This paper empirically explores the emergency politics model through the lens of emergency language in international negotiations in the Council of the European Union during the euro crisis. Drawing on public videos of Debates in the Council of the European Union - DICEU data from 2010-2016 and applying novel quantitative text analysis techniques on ministers’ speeches, findings suggest the presence of emergency language in Council negotiations during the crisis, where the potential motivators are associated with bailout programs and Eurosceptic domestic audiences, prompting European elites to use emergency language to justify their positions on policy debates. These results have implications for understanding decision-making in key EU institutions, such as the Council, during crisis events."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "Grandstanding under the Spotlight: Unveiling Elites Crisis Communication in the Council of the European Union (with James P. Cross and Yen-Chieh Liao).\n\n\n\nAbstract\n\n\nExceptional times affect how elites communicate and adopt economic policy positions in international negotiations. This paper examines how ministers in the Economic and Financial Affairs Council strategically resort to grandstanding communication to set agendas in response to the Euro crisis between 2010 and 2016. Using few-shot learning with large language models to identify grandstanding statements, combined with a difference-in-differences design, we find that national economic pressures during the euro crisis led ministers from Eurosceptic governments to engage in grandstanding behaviour more than those from Europhile governments. Our results show evidence that Europhile- and Eurosceptic governments may adopt different political communication strategies in response to varying degrees of economic pressures during the crisis.\n\n\nExceptional Measures for Exceptional Times: Deciphering Emergency Politics Motivators in the Council of the European Union in the Euro Crisis (Paula Montano).\n\n\n\nAbstract\n\n\nHow have recent EU crises shaped European elites’ crisis communication? Recent literature talks about emergency politics, a mode of governance that became prevalent during the euro crisis. In this line, executive leaders justify contested emergency measures as necessary crisis responses to exceptional events. This paper empirically explores the emergency politics model through the lens of emergency language in international negotiations in the Council of the European Union during the euro crisis. Drawing on public videos of Debates in the Council of the European Union - DICEU data from 2010-2016 and applying novel quantitative text analysis techniques on ministers’ speeches, findings suggest the presence of emergency language in Council negotiations during the crisis, where the potential motivators are associated with bailout programs and Eurosceptic domestic audiences, prompting European elites to use emergency language to justify their positions on policy debates. These results have implications for understanding decision-making in key EU institutions, such as the Council, during crisis events."
+  },
+  {
+    "objectID": "research.html#in-progress",
+    "href": "research.html#in-progress",
+    "title": "Research",
+    "section": "In Progress",
+    "text": "In Progress\nStrategic Crisis Jargon in the EU? Mapping Crisis Communication in the Council of the European Union (Paula Montano).\nIf you would like to get access to the latest version of a paper, feel free to e-mail me."
   }
 ]
