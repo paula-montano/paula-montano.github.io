@@ -27,6 +27,8 @@ website:
         href: research.qmd 
       - text: Teaching
         href: teaching.qmd
+      - text: Awards
+        href: awards.qmd
       - text: Code
         href: code.qmd
       - text: CV

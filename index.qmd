@@ -3,10 +3,6 @@ title: "PhD Researcher"
 image: pm.jpg
 resources: CV_Montano_Paula.pdf
 about: 
-  id: welcome
-  template: jolla 
-  image-shape: rectangle
-  image-width: 9em
   links:
     - icon: envelope 
       href: mailto:paula.montano1@gmail.com
@@ -16,6 +12,11 @@ about:
       href: https://github.com/paula-montano
     - icon: linkedin
       href: https://www.linkedin.com/in/paula-montano-3699625a?utm_source=share&utm_campaign=s       hare_via&utm_content=profile&utm_medium=ios_app
+  id: welcome
+  template: jolla 
+  image-shape: rounded
+  image-width: 9em
+  
 ---
 
 
