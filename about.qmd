@@ -1,9 +1,35 @@
 ---
-title: "About"
+title: ""
+about:
+  template: jolla
+  image: pm.jpg
+  image-shape: rounded
+  image-width: 9em
+  links:
+    - icon: envelope
+      href: mailto:paula.montano1@gmail.com
+    - icon: twitter
+      href: https://x.com/PaulaMontano__
+    - icon: github
+      href: https://github.com/paula-montano
+      
+  id: welcome 
 ---
 
-About this site
+:::{#welcome}
 
-```{r}
-1 + 1
-```
+::: {.justify}
+
+Hi! I am a PhD researcher at the School of Politics and International Relations at University College Dublin and an affiliate to the [UCD Connected_Politics Lab](https://www.ucd.ie/connected_politics/). 
+
+My research analyses **strategic political communication** in EU institutions during crises using computational methods. Methodologically, I apply **NLP** and **quantitative approaches** to analyse text corpora, and identify causal relationships. 
+
+I am also a contributor and research assistant in the [Irish Polling Indicator](https://irishpollingindicator.com/) project, and a co-author of the [Irish Demographic Polling Data](https://github.com/Irish-Dem-Polling/datasets) and the [Irish Local and European Elections Manifestos Dashboard](https://irishpoliticsdata.shinyapps.io/manifestoexplorer/). Previously, I worked at the [Global Affairs Canada](https://www.international.gc.ca/global-affairs-affaires-mondiales/home-accueil.aspx?lang=eng) in their office in Ireland and Canada.
+
+Learn more about my [research](research.qmd), [teaching](teaching.qmd) and [CV](CV_Montano_Paula.pdf)! Feel free to [reach out](mailto:paula.montano1@gmail.com) to explore collaboration opportunities. 
+
+:::
+
+:::
+
+

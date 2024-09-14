@@ -3,18 +3,40 @@ project:
   output-dir: docs
 
 website:
-  title: "paulamontano.github.io"
+  title: "Paula Montano"
+  search: false 
+  
   navbar:
-    left:
-      - href: index.qmd
+    pinned: true 
+    
+    right:
+      - href: about.qmd
         text: Home
-      - about.qmd
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: awards.qmd
+        text: Awards
+      - href: code.qmd
+        text: Code
+      - href: CV_Montano_Paula.pdf
+        text: CV
 
+  page-footer:
+      center: |
+        <span><i class="bi bi-cc-circle"></i> 2024 Paula Montano</span>\
+        All rights reserved.
+      right: |
+        <span>Made with <i class="bi bi-r-circle-fill"></i> and <a href="https://quarto.org/" target="_blank">Quarto</a></span>
+      
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
-
+    toc: false
+    include-in-header:
+      - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css
+      - https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css
 
 

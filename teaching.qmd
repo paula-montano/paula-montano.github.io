@@ -1,0 +1,39 @@
+---
+title: "Teaching"
+toc: true 
+link-external-newwindow: true
+---
+    
+I am highly engaged and committed to develop teaching skills in quantitative research methods and Political Science. I have experience as a **head tutor** and **teaching assistant** in the following courses:
+
+
+## University College Dublin 
+
+### Undergraduate Level
+
+- **POL20050: Research Methods in Political Science (in R and STATA)**
+    - Spring 2022/2023/2024 
+    - [Course information](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=POL20050) 
+ 
+ 
+
+- **POL20010: Individuals and the State: The idea of Freedom in the History of Political Thought**
+    - Autumn 2023/2024 
+    - [Course information](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=POL20010)
+
+
+
+- **INRL20160: Introduction to EU Politics**
+    - Autumn 2022 
+    - [Course information](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=INRL20160)
+ 
+ 
+
+- **INRL10010: Foundations of Political Theory and International Relations**
+    - Autumn 2021/2022 
+    - [Course information](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=INRL10010) 
+
+ 
+<!--
+Add separation here between body and footer
+-->
