@@ -24,7 +24,7 @@ Hi! I am a PhD researcher at the School of Politics and International Relations 
 
 My research analyses **strategic political communication** in EU institutions during crises using computational methods. Methodologically, I apply **NLP** and **quantitative approaches** to analyse text data, and identify causal relationships. 
 
-I am also a contributor and research assistant in the [Irish Polling Indicator](https://pollingindicator.com/) project, and a co-author of the [Irish Demographic Polling Data](https://github.com/Irish-Dem-Polling/datasets) and a contributor to the [Irish Local and European Elections Manifestos](https://github.com/stefan-mueller/iemanifestos Data). Previously, I worked at the [Global Affairs Canada](https://www.international.gc.ca/global-affairs-affaires-mondiales/home-accueil.aspx?lang=eng) in their office in Ireland and Ecuador.
+I am also a contributor and research assistant in the [Irish Polling Indicator](https://pollingindicator.com/) project, and a co-author of the [Irish Demographic Polling Data](https://github.com/Irish-Dem-Polling/datasets) and a contributor to the [Irish Local and European Elections Manifestos](https://github.com/stefan-mueller/iemanifestos Data). Previously, I worked at [Global Affairs Canada](https://www.international.gc.ca/global-affairs-affaires-mondiales/home-accueil.aspx?lang=eng) in their office in Ireland and Ecuador.
 
 Learn more about my [research](research.qmd), [teaching](teaching.qmd) and [CV](CV_Montano_Paula.pdf)! Feel free to [reach out](mailto:paula.montano1@gmail.com) to explore collaboration opportunities. 
 
