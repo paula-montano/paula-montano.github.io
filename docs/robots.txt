@@ -1,1 +1,1 @@
-Sitemap: https://paula-montano.github.io/paulamontano.github.io/sitemap.xml
+Sitemap: https://paula-montano.github.io/site/sitemap.xml
