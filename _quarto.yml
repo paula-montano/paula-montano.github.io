@@ -5,9 +5,9 @@ project:
 website:
   title: "Paula Montano"
   search: false 
-  site-url: "https://paula-montano.github.io/paulamontano.github.io/"
-  site-path: "/paulamontano.github.io/"
-  repo-url: "https://github.com/paula-montano/paulamontano.github.io"
+  site-url: "https://paula-montano.github.io/site/"
+  site-path: "/site/"
+  repo-url: "https://github.com/paula-montano/site.git"
   
   navbar:
     pinned: true 
