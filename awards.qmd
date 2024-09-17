@@ -9,7 +9,9 @@ link-external-newwindow: true
 <summary>Details</summary>
 ::: {.justify}
 
-The Executive Committee of the Political Communication section selected high caliber students to receive the travel award from the Political Communication section of APSA. Award: $500. 
+The Executive Committee of the Political Communication section selected high caliber students to receive the travel award from the Political Communication section of APSA. 
+
+**Award:** $500. 
 
 **Presented Paper:** "Grandstanding in the EU? Elites Crisis Communication under the Spotlight"
 :::
@@ -20,7 +22,9 @@ The Executive Committee of the Political Communication section selected high cal
 <summary>Details</summary>
 ::: {.justify}
 
-The Essex Summer School in Social Science Data Analysis awards the Vera E. Troeger Scholarship for Women in Political Methodology. These awards are intended to encourage methodological training among female graduate students in political science and to honour the work of Professor Vera E. Troeger, a leading figure in quantitative social science research and a powerful voice in the promotion of women in political science. The scholarship provides a tuition waiver to attend in-person to one of our two-week sessions in the 2024 Essex Summer School in Social Science Data Analysis (ESS).
+The Essex Summer School in Social Science Data Analysis awards the Vera E. Troeger Scholarship for Women in Political Methodology. These awards are intended to encourage methodological training among female graduate students in political science and to honour the work of Professor Vera E. Troeger, a leading figure in quantitative social science research and a powerful voice in the promotion of women in political science. 
+
+**Award:** The scholarship provides a tuition waiver to attend in-person to one of our two-week sessions in the 2024 Essex Summer School in Social Science Data Analysis (ESS).
 
 **Course:** "Ideal Point Estimation, Item Response Theory, and Scaling Methods for Surveys and Behaviour" 
 
@@ -32,7 +36,9 @@ The Essex Summer School in Social Science Data Analysis awards the Vera E. Troeg
 <summary>Details</summary>
 ::: {.justify}
 
-The Summer School for Women* in Political Methodology is hosted by several female researchers from various European Universities. The Summer School has the aim of establishing a European network of women working in political methodology and data science.The 2023 edition was funded by the University of Basel, the department of Political Science and the Freiwillige Akademische Gesellschaft Basel. The fellowship covered full tuition cost and accommodation for seven days. 
+The Summer School for Women* in Political Methodology is hosted by several female researchers from various European Universities. The Summer School has the aim of establishing a European network of women working in political methodology and data science.The 2023 edition was funded by the University of Basel, the department of Political Science and the Freiwillige Akademische Gesellschaft Basel. 
+
+**Award:** The fellowship covered full tuition cost and accommodation for seven days. 
 
 **Courses:** R packages and Functions, Advanced Graphics in R, Web-Scraping, Text Analysis, Word Embeddings, Images as Data.
 
@@ -44,7 +50,9 @@ The Summer School for Women* in Political Methodology is hosted by several femal
 <summary>Details</summary>
 ::: {.justify}
 
-The aim of the scholarship is to attract applicants of the highest academic calibre to pursue a PhD in the UCD School of Politics and International Relations, and to provide them with the training, experience and mentorship necessary to their professional development.The scholarship covers full fees and provides a living stipend of €25,000 per year for up to four years. 
+The aim of the scholarship is to attract applicants of the highest academic calibre to pursue a PhD in the UCD School of Politics and International Relations, and to provide them with the training, experience and mentorship necessary to their professional development.
+
+**Award:** The scholarship covers full fees and provides a living stipend of €25,000 per year for up to four years. 
 
 :::
 </details>
