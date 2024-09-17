@@ -2,8 +2,11 @@ project:
   type: website
   output-dir: docs
 
+render:
+    - "*.qmd"
+    
 website:
-  title: "Paula Montano"
+  title: ""
   search: false 
   site-url: "https://paula-montano.github.io/site/"
   site-path: "/site/"

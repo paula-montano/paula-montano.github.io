@@ -26,3 +26,18 @@ a {
   background-color: #007bff; /* Optional: Change background color on hover */
   color: white; /* Optional: Change icon color on hover */
 }
+
+/* Custom CSS for the title */
+h1 {
+  font-size: 3em; /* Adjust the size as needed */
+  font-weight: bold; /* Optionally make it bold */
+}
+
+h1.title {
+  font-size: 2rem; /* Adjust this value to make the title smaller */
+}
+
+h2.subtitle {
+  font-size: 1.5rem; /* Adjust the subtitle size */
+  font-weight: 300;  /* Optional: to make the subtitle lighter */
+}

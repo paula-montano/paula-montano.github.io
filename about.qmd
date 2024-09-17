@@ -1,10 +1,11 @@
 ---
-title: ""
+title: "Paula Montano"
+subtitle: "PhD Researcher | AI Enthusiast"
 about:
-  template: jolla
+  template: trestles
   image: pm.jpg
   image-shape: rounded
-  image-width: 9em
+  image-width: 12rem
   links:
     - icon: envelope
       href: mailto:paula.montano1@gmail.com
@@ -20,13 +21,13 @@ about:
 
 ::: {.justify}
 
-Hi! I am a PhD researcher at the School of Politics and International Relations at University College Dublin and an affiliate to the [UCD Connected_Politics Lab](https://www.ucd.ie/connected_politics/). 
+Welcome! I am a PhD researcher at the School of Politics and International Relations at University College Dublin. My research interests lie in the intersection of **political communication**, **EU politics**, and **computational social science**. 
 
-My research analyses **strategic political communication** in EU institutions during crises using computational methods. Methodologically, I apply **NLP** and **quantitative approaches** to analyse text data, and identify causal relationships. 
+My PhD project analyses **strategic political communication** in EU institutions during crises using **NLP** and **computational methods** such as large language models, machine learning to analyse **data**, and identify causal relationships.   
 
-I am also a contributor and research assistant in the [Irish Polling Indicator](https://pollingindicator.com/) project, and a co-author of the [Irish Demographic Polling Data](https://github.com/Irish-Dem-Polling/datasets) and a contributor to the [Irish Local and European Elections Manifestos](https://github.com/stefan-mueller/iemanifestos Data). Previously, I worked at [Global Affairs Canada](https://www.international.gc.ca/global-affairs-affaires-mondiales/home-accueil.aspx?lang=eng) in their office in Ireland and Ecuador.
+I am also a contributor and research assistant in the [Irish Polling Indicator](https://pollingindicator.com/) project, and a co-author of the [Irish Demographic Polling Data](https://github.com/Irish-Dem-Polling/datasets) and the [Irish Local and European Elections Manifestos](https://github.com/stefan-mueller/iemanifestos) dataset. I am affiliate to the [UCD Connected_Politics Lab](https://www.ucd.ie/connected_politics/). 
 
-Learn more about my [research](research.qmd), [teaching](teaching.qmd) and [CV](CV_Montano_Paula.pdf)! Feel free to [reach out](mailto:paula.montano1@gmail.com) to explore collaboration opportunities. 
+Feel free to [reach out](mailto:paula.montano1@gmail.com) to explore collaboration opportunities or to share PhD journey experiences. Check more about my [research](research.qmd), [teaching](teaching.qmd) and [CV](CV_Montano_Paula.pdf). 
 
 :::
 
