@@ -8,9 +8,9 @@ render:
 website:
   title: ""
   search: false 
-  site-url: "https://paula-montano.github.io/site/"
-  site-path: "/site/"
-  repo-url: "https://github.com/paula-montano/site.git"
+  site-url: "https://paula-montano.github.io/"
+  site-path: "/paula-montano.github/"
+  repo-url: "https://github.com/paula-montano/paula-montano.github.io.git"
   
   navbar:
     pinned: true 
