@@ -1,0 +1,43 @@
+/* css styles */
+
+.justify {
+    text-align: justify;
+}
+
+/* Remove underline from all hyperlinks */
+a {
+  text-decoration: none;
+}
+
+/* Style the icons to be circular and bigger */
+.icon-circle {
+  display: inline-block;
+  width: 3em; /* Adjust the size as needed */
+  height: 3em; /* Adjust the size as needed */
+  line-height: 3em; /* Centers the icon vertically */
+  border-radius: 50%; /* Makes the icon circular */
+  text-align: center;
+  background-color: #e0e0e0; /* Optional: Add a background color */
+  font-size: 1.5em; /* Adjust font size to make icons bigger */
+  color: #333; /* Set icon color */
+}
+
+.icon-circle:hover {
+  background-color: #007bff; /* Optional: Change background color on hover */
+  color: white; /* Optional: Change icon color on hover */
+}
+
+/* Custom CSS for the title */
+h1 {
+  font-size: 3em; /* Adjust the size as needed */
+  font-weight: bold; /* Optionally make it bold */
+}
+
+h1.title {
+  font-size: 2rem; /* Adjust this value to make the title smaller */
+}
+
+h2.subtitle {
+  font-size: 1.5rem; /* Adjust the subtitle size */
+  font-weight: 300;  /* Optional: to make the subtitle lighter */
+}
