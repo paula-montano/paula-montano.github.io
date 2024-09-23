@@ -9,7 +9,7 @@ website:
   title: ""
   search: false 
   site-url: "https://paula-montano.github.io/"
-  site-path: "/paula-montano.github/"
+  site-path: "/paula-montano.github.io/"
   repo-url: "https://github.com/paula-montano/paula-montano.github.io.git"
   
   navbar:
