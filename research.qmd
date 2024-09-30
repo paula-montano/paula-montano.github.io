@@ -12,7 +12,7 @@ link-external-newwindow: true
 <summary>Abstract</summary>
 ::: {.justify}
 
-Exceptional times affect how elites communicate and adopt economic policy positions in international negotiations. This paper examines how ministers in the Economic and Financial Affairs Council strategically resort to grandstanding communication to set agendas in response to the Euro crisis between 2010 and 2016. Using few-shot learning with large language models to identify grandstanding statements, combined with a difference-in-differences design, we find that national economic pressures during the euro crisis led ministers from Eurosceptic governments to engage in grandstanding behaviour more than those from Europhile governments. Our results show evidence that Europhile- and Eurosceptic governments may adopt different political communication strategies in response to varying degrees of economic pressures during the crisis.
+Exceptional times affect how elites communicate and adopt economic policy positions in international negotiations. This paper examines how ministers in the Economic and Financial Affairs Council strategically resort to grandstanding communication to set agendas in response to the Euro crisis between 2010 and 2016. Using few-shot learning with large language models to identify grandstanding statements, combined with a difference-in-differences design, we find that national economic pressures during the euro crisis led ministers from Eurosceptic governments to engage in grandstanding behaviour more than those from Europhile governments. Our results show evidence that pro-EU and Eurosceptic governments may adopt different political communication strategies in response to varying degrees of economic pressures during the crisis.
 
 :::
 </details>
@@ -23,14 +23,18 @@ Exceptional times affect how elites communicate and adopt economic policy positi
 <summary>Abstract</summary>
 ::: {.justify}
 
-How have recent EU crises shaped European elites’ crisis communication? Recent literature talks about emergency politics, a mode of governance that became prevalent during the euro crisis. In this line, executive leaders justify contested emergency measures as necessary crisis responses to exceptional events. This paper empirically explores the emergency politics model through the lens of emergency language in international negotiations in the Council of the European Union during the euro crisis. Drawing on public videos of Debates in the Council of the European Union - DICEU data from 2010-2016 and applying novel quantitative text analysis techniques on ministers' speeches, findings suggest the presence of emergency language in Council negotiations during the crisis, where the potential motivators are associated with bailout programs and Eurosceptic domestic audiences, prompting European elites to use emergency language to justify their positions on policy debates. These results have implications for understanding decision-making in key EU institutions, such as the Council, during crisis events.
+How have recent EU crises shaped European elites’ crisis communication? Recent literature talks about emergency politics, a mode of governance that became prevalent during the euro crisis. In this line, executive leaders justify contested emergency measures as necessary crisis responses to exceptional events. This paper empirically explores the emergency politics model through the lens of emergency language in international negotiations in the Council of the European Union during the Euro crisis. Drawing on public videos of Debates in the Council of the European Union - DICEU data from 2010-2016 and applying novel quantitative text analysis techniques on ministers' speeches, findings suggest the presence of emergency language in Council negotiations during the crisis, where the potential motivators are associated with bailout programs and Eurosceptic domestic audiences, prompting European elites to use emergency language to justify their positions on policy debates. These results have implications for understanding decision-making in key EU institutions, such as the Council, during crisis events.
 
 :::
 </details>
 
 ## In Progress
 
+<<<<<<< HEAD
 **"Sharing Debt or Grandstanding? Strategic Parliamentary Communication in the Face of the Euro Crisis"** (Paula Montano).
+=======
+**Sharing Debt or Grandstanding? Strategic Parliamentary Communication in the Face of the Euro Crisis** (Paula Montano).
+>>>>>>> abffdfa9fe0175ae20db0ecd54e2518a25ae62e4
 
 **Mapping Crisis Jargon in the EU: Communication Dynamics in International Negotiations During the Euro Crisis** (Paula Montano).
 
