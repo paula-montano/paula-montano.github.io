@@ -6,6 +6,25 @@ link-external-newwindow: true
 
 ## Working Papers 
 
+**Exceptional Measures for Exceptional Times: Deciphering Emergency Politics Motivators in the Council of the European Union in the Euro Crisis** (Paula Montano).\
+<details>
+<summary>Abstract</summary>
+::: {.justify}
+
+In recent years, the EU's crisis responses have become increasingly susceptible to emergency rule. Recent scholarship argues for the prevalence of emergency politics—a distinct mode of governance—among EU institutions. This paper uncovers the dynamics of emergency governance in the Council of the European Union during ECOFIN debates in the euro crisis. Leveraging the Debates of the Council of the European Union (DICEU) dataset from 2010 to 2016, this study employs quantitative text analysis and a two-part econometric model to identify patterns of emergency language use and its determinants. Higher intensity emergency language is associated with executive leaders from larger country contributors to EU lending during critical debates in peak crisis years. In contrast, executive leaders from member states in EFSF/ESM financial assistance programs notably suppressed such communication during their active program years. This divergence suggests that crisis-led economic policy responses—specifically, conditionalities in financial assistance programs—shape crisis communication strategies within EU institutions.
+
+:::
+</details>
+
+**Crisis as a Catalyst for Rebellion: Party Disloyalty and Grandstanding in Parliamentary Debates during Economic Crises** (Paula Montano).\
+<details>
+<summary>Abstract</summary>
+::: {.justify}
+
+Studies show that backbench rebellions in parliament are on the rise. This behavior is often expressed through position-taking, party disloyalty, and credit-claiming. However, less is known about the implications of rebellion during crises, particularly for government parties. Drawing on the literature on parliamentary rebellion, this paper explores how Members of Parliament (TDs) in Ireland resort to strategic messaging—specifically, grandstanding in legislative debates—during the euro crisis to differentiate themselves from the party line and connect with constituents. Combining the ParlEE dataset and the Database of Parliamentary Speeches in Ireland, to cover highly polarized budget debates, this study employs LLMs and text analysis techniques to examine how government backbenchers communicate when challenging their party line. The evidence suggests that government backbenchers engage in strategic communication to express dissent in polarised budget debates when crisis pressures are high, potentially undermining government cohesion during crises.
+
+:::
+</details>
 
 **Grandstanding under the Spotlight: Unveiling Elites Crisis Communication in the Council of the European Union** (with <a href="https://people.ucd.ie/james.cross/">James P. Cross</a> and <a href="https://davidycliao.github.io/">Yen-Chieh Liao</a>).\
 <details>
@@ -16,21 +35,6 @@ Exceptional times affect how elites communicate and adopt economic policy positi
 
 :::
 </details>
-
-
-**Exceptional Measures for Exceptional Times: Deciphering Emergency Politics Motivators in the Council of the European Union in the Euro Crisis** (Paula Montano).\
-<details>
-<summary>Abstract</summary>
-::: {.justify}
-
-How have recent EU crises shaped European elites’ crisis communication? Recent literature talks about emergency politics, a mode of governance that became prevalent during the euro crisis. In this line, executive leaders justify contested emergency measures as necessary crisis responses to exceptional events. This paper empirically explores the emergency politics model through the lens of emergency language in international negotiations in the Council of the European Union during the Euro crisis. Drawing on public videos of Debates in the Council of the European Union - DICEU data from 2010-2016 and applying novel quantitative text analysis techniques on ministers' speeches, findings suggest the presence of emergency language in Council negotiations during the crisis, where the potential motivators are associated with bailout programs and Eurosceptic domestic audiences, prompting European elites to use emergency language to justify their positions on policy debates. These results have implications for understanding decision-making in key EU institutions, such as the Council, during crisis events.
-
-:::
-</details>
-
-## In Progress
-
-**Mapping Crisis Jargon in the EU: Communication Dynamics in International Negotiations During the Euro Crisis** (Paula Montano).
 
 If you would like to get access to the latest version of a paper, feel free to [e-mail me](mailto:paula.montano1@gmail.com).
 

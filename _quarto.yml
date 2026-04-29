@@ -31,7 +31,7 @@ website:
 
   page-footer:
       center: |
-        <span><i class="bi bi-cc-circle"></i> 2024 Paula Montano</span>\
+        <span><i class="bi bi-cc-circle"></i> 2026 Paula Montano</span>\
         All rights reserved.
       right: |
         <span>Made with <i class="bi bi-r-circle-fill"></i> and <a href="https://quarto.org/" target="_blank">Quarto</a></span>
